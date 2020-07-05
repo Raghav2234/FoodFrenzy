@@ -3,8 +3,8 @@
   flex-direction: column;
   align-items: flex-start;
   margin-left: 8%;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
 }
 button,
 input[type="submit"],
